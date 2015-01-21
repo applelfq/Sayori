@@ -10,29 +10,29 @@
 	<string>Sayori</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BC9B2298-C2F1-4137-B176-6465582636E7</key>
+		<key>242491A3CA4D613DCD4A5173746425CB7ACC01E0</key>
 		<string>https://github.com/mkino/Sayori.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Sayori.xcodeproj/project.xcworkspace</string>
+	<string>Sayori.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BC9B2298-C2F1-4137-B176-6465582636E7</key>
+		<key>242491A3CA4D613DCD4A5173746425CB7ACC01E0</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/mkino/Sayori.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BC9B2298-C2F1-4137-B176-6465582636E7</string>
+	<string>242491A3CA4D613DCD4A5173746425CB7ACC01E0</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BC9B2298-C2F1-4137-B176-6465582636E7</string>
+			<string>242491A3CA4D613DCD4A5173746425CB7ACC01E0</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Sayori</string>
 		</dict>
